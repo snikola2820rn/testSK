@@ -25,7 +25,6 @@ public class TestApp {
         }
 
         String path = args[0];
-        System.out.println("AAAAA");
         Spec st = StorageManager.getStorage("impl.DriveImplementation");
 
     }
